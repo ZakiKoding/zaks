@@ -1,3 +1,7 @@
+<h1>Haloo teman teman</h1>
+<h6>Kenalin nama aku muhammad zaki, aku adalah seorang pelajar pemrograman salam kenal ya semuanya, I hope we can get a good vibes in here 😁</h6>
+
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/dimasmds">
